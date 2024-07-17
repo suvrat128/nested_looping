@@ -38,6 +38,7 @@ Nested looping statements:
              break
 
 #braking outer loop with outer loop value
+
 #ex1
 
      for in range(1,6):
@@ -58,6 +59,7 @@ Nested looping statements:
 
 
 # braking outer loop with inner loop value
+
 #ex1
 
     for i on range(1,6):
