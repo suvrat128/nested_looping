@@ -36,8 +36,7 @@ Nested looping statements:
           print(i,j)
           if i == 3:
              break
-#braking outer loop with outer loop value
-
+# braking outer loop with outer loop value
 #ex1
 
      for in range(1,6):
