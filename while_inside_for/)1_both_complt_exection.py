@@ -10,19 +10,19 @@ iteration 1:
     outer loop i will 1:
         inner loop j will 1:
            so  print 1,1
-           j = 2
+           now j increment form 1 to 2
         inner loop j = 2:
            so print 1,2
-           j =3
+           j increment form 2 to 3
         inere loop j =3:
             so pritn 1,3
-            j=4
+            j increment form 3 to 4
         inner loop j =4
             so print 1,4
-            j=5
+            j increment form 4 to 5
         inner loop j = 5
             so print 1,5
-            j=6
+            j increment form 5 to 6
 iteration 2:
     outer loop i = 2:
         inner loop will again run for 5 time :
