@@ -1,4 +1,4 @@
-# braking of outer loop with innner value
+# breaking of outer loop with innner value
 
 for i in range(1,6):
     j=1
