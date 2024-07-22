@@ -1,5 +1,5 @@
 # wapt to prijnt prime number in a given range
-'''
+
 ll = int(input())
 ul = int(input())
 for n in range(ll,ul+1):
@@ -14,7 +14,7 @@ for n in range(ll,ul+1):
 
 
 # printing first n prime number by using infinite loop
-count= int(input('enter hoe many prime numbers u need'))
+count= int(input('enter how many prime numbers u need'))
 n =1
 pc=0
 while True:
@@ -64,7 +64,7 @@ while True:
             break
 
     n+=1
-'''
+
 
 # write a program to print 5th to 10th prime no
 
