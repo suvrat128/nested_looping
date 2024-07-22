@@ -1,4 +1,4 @@
-#braking outer loop with outer loop value
+#breaking outer loop with outer loop value
 #ex1
 '''
 for i in range(1,6):
