@@ -1,4 +1,4 @@
-# braking inner loop with inner loop value
+# breaking inner loop with inner loop value
 
 for i in range(1,6):
     for j in range(1,6):
