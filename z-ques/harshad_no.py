@@ -1,5 +1,5 @@
 # no is harshad no or not
-'''
+
 n = int(input())
 summ = 0
 dummy = n
@@ -47,7 +47,7 @@ while True:
             break
     i+=1
 
-'''
+
 # porint the nth harsad no 
 
 n = int(input())
