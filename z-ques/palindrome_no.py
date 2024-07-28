@@ -49,6 +49,9 @@ while True:
             break
     i+=1
 
+
+# print first nth palindrome no 
+
 n = int(input())
 i = 1
 ct = 0
