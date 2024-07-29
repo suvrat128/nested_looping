@@ -38,5 +38,53 @@ for n in range(ll,ul+1):
         print(n)
 
 
+# first n special no 
+
+n = int(input())
+ct = 0
+i =1
+while True:
+    dummy = i
+    summ = 0
+    while dummy>0:
+        rem = dummy%10
+        dummy//=10
+        fact = 1
+        for j in range(1,rem+1):
+            fact*=j
+        summ+=fact
+    if summ == i:
+        print(i)
+        ct+=1
+        if ct == n:
+            break
+    i+=1
+
+
+
+    
+
+# print nth special no
+
+n = int(input())
+ct = 0
+i =1
+while True:
+    dummy = i
+    summ = 0
+    while dummy>0:
+        rem = dummy%10
+        dummy//=10
+        fact = 1
+        for j in range(1,rem+1):
+            fact*=j
+        summ+=fact
+    if summ == i:
+        ct+=1
+        if ct == n:
+            print(i)
+            break
+    i+=1
+
 
 
